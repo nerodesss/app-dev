@@ -21,4 +21,22 @@ The film follows *Masaru Kato*, a high school student who is fatally stabbed whi
 2. Receive a powerful weapon upgrade.
 3. Revive a fallen player from Gantz memory.
 
-### 2. the 
+### 2. The Osaka Mission
+Kato is sent to Osaka, where the local team has been fighting monsters for sport. They must face powerful mythological monsters, culminating in a battle against the form-shifting boss *Nurarihyon*.
+
+## Key Characters
+1. *Masaru Kato* — The compassionate protagonist fighting to return home to his younger brother.
+2. *Reika Shimohira* — A veteran Tokyo team member who guides Kato.
+3. *Anzu Yamasaki* — An Osaka team member who forms a close bond with Kato.
+4. *Yoshikazu Suzuki* — An elderly Tokyo player who supports the team.
+
+## Key Features & Themes
+
+- [x] *Full 3D CGI Animation* — Photorealistic visuals and detailed action sequences.
+- [x] *Yokai Mythology* — Reimagines classic Japanese folklore creatures (Nurarihyon, Tengu, Kraut) into alien threats.
+- [x] *High-Stakes Combat* — Fast-paced battles using high-tech suits, Z-Guns, and Gantz bikes.
+- [ ] PG-13 Friendly Content — Contains heavy violence and mature themes.
+
+## Favorite Quote
+```text
+"I'm going to survive and make it back home to my brother no matter what!"
